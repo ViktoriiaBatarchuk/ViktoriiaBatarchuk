@@ -1,6 +1,6 @@
 -  Hi, I’m @ViktoriiaBatarchuk
--  I’m interested in Data Analysis, Machine Learning, Medical Physics, International relationships
--  I’m currently learning Machine Learning for Healthcare and Business Analysis
+-  I’m interested in Data Analysis, Machine Learning, Medical Physics, Medical Imaging and Processing
+-  I’m currently learning Data Science for Healthcare and Business Analysis
 -  I’m looking to collaborate on projects that relative to the abovementioned topics in order to conduct collaborative research and solutions 
 -  How to reach me batarchuk.viktoria@gmail.com or via www.linkedin.com/in/viktoriagaidar 
 
